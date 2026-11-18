@@ -1,7 +1,10 @@
 # Salesforce Trailblazer Profile Clone
 
-This repository contains a full clone of the Salesforce Trailblazer Profile for:
-**URL:** [https://www.salesforce.com/trailblazer/uosi9ld098jtpwbu87](https://www.salesforce.com/trailblazer/uosi9ld098jtpwbu87)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SaiSakthiMk/trailblazer-profile-clone)
+
+**GitHub Repository:** [https://github.com/SaiSakthiMk/trailblazer-profile-clone](https://github.com/SaiSakthiMk/trailblazer-profile-clone)  
+**Profile:** **SAISAKTHI MK**  
+**Original URL:** [https://www.salesforce.com/trailblazer/uosi9ld098jtpwbu87](https://www.salesforce.com/trailblazer/uosi9ld098jtpwbu87)
 
 ---
 
